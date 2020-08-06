@@ -1,4 +1,4 @@
-package Interview_Preparation_Kit.Warm_up_Challenges;
+package Interview_Preparation_Kit.warm_up_Challenges;
 
        /* Integer[] ar2 = new Integer[ar.length];
         int i = 0;

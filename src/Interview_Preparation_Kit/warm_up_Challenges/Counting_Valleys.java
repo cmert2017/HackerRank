@@ -1,4 +1,4 @@
-package Interview_Preparation_Kit.Warm_up_Challenges;
+package Interview_Preparation_Kit.warm_up_Challenges;
 /*
 https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
  */
